@@ -1,0 +1,29 @@
+[
+  {
+    "File": "01.jpg",
+    "Width": 1200,
+    "Height": 1800,
+    "HorizontalDpi": 96.0,
+    "VerticalDpi": 96.0,
+    "Bytes": 398735,
+    "Sha256": "ae86c64bd096883f76a295ff07af361b6e96b09a2240d24e07c072c9e93d9d5b"
+  },
+  {
+    "File": "02.jpg",
+    "Width": 1200,
+    "Height": 1800,
+    "HorizontalDpi": 96.0,
+    "VerticalDpi": 96.0,
+    "Bytes": 488283,
+    "Sha256": "fd30f804399621103b689d283aca78dad56b8cb5474b0863cd59be2297cf28c3"
+  },
+  {
+    "File": "03.jpg",
+    "Width": 1200,
+    "Height": 1800,
+    "HorizontalDpi": 96.0,
+    "VerticalDpi": 96.0,
+    "Bytes": 571460,
+    "Sha256": "c2323353d7d2555aee5ba66126e472fc18204cdf48a9ef75f100d96f47ff0bb2"
+  }
+]
