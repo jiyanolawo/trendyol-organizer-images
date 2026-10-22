@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-10-22T15:58:41.4196247Z",
+  "invariant": "Source image bytes copied unchanged",
+  "file_count": 24,
+  "total_bytes": null,
+  "files": [
+    {
+      "path": "suzgec-variants-20261022/pembe/01.png",
+      "color": "Pembe",
+      "order": 1,
+      "bytes": 1414067,
+      "sha256": "fb9a2d7a5bd221342ce66534315a95461026352014ad75232ad5bf7aa4f2b0ab",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (24).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/pembe/02.png",
+      "color": "Pembe",
+      "order": 2,
+      "bytes": 1495348,
+      "sha256": "407cf7a7904dc15a646c9aac2d456edb7e8c9f39d45a8403fa699c0b1dec7c0a",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (24).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/pembe/03.png",
+      "color": "Pembe",
+      "order": 3,
+      "bytes": 1427628,
+      "sha256": "b247a97228cca5f010b6c3ed1d56446c144a76078f198bf5322876d06cae55fa",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (24).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/pembe/04.png",
+      "color": "Pembe",
+      "order": 4,
+      "bytes": 1335301,
+      "sha256": "c8538020f6bda43a16f76c5baf33d7d11f18ba976c74df8046ae01b7fbe39000",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (24).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/pembe/05.png",
+      "color": "Pembe",
+      "order": 5,
+      "bytes": 1517821,
+      "sha256": "13a8647d6dba5c414e6ab8aac0e38b4eb0b95644919933066a8cc1e9af5e795b",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (24).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/beyaz/01.png",
+      "color": "Beyaz",
+      "order": 1,
+      "bytes": 1521546,
+      "sha256": "2eba9330efc4e2fe69d1f78ef6963a80dea9773e89267e66c22f8b3dcd3c1c02",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (25).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/beyaz/02.png",
+      "color": "Beyaz",
+      "order": 2,
+      "bytes": 1438937,
+      "sha256": "c8e27747fd9d362d72a94bde7de33a0d1b95973f60d3d9227844541daeb01393",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (25).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/beyaz/03.png",
+      "color": "Beyaz",
+      "order": 3,
+      "bytes": 1331901,
+      "sha256": "6a30070af94f15b041a8d6e4982f8b6af33d6d4f97a623ff4bc3b789c1790000",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (25).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/beyaz/04.png",
+      "color": "Beyaz",
+      "order": 4,
+      "bytes": 1412439,
+      "sha256": "528085164cdfdf77eebf8785724ceafb209572024892f460f8fc536de624b60a",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (25).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/siyah/01.png",
+      "color": "Siyah",
+      "order": 1,
+      "bytes": 1540771,
+      "sha256": "56747ce82640e0271b3c91dbdfd3dea511e09cc09656ecf7894cc9d9f7841e04",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (26).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/siyah/02.png",
+      "color": "Siyah",
+      "order": 2,
+      "bytes": 1477154,
+      "sha256": "4cb031a5f1ab9f883ca85b9e1020081166a23aaae4300dcc6f52dff2d4c71aa1",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (26).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/siyah/03.png",
+      "color": "Siyah",
+      "order": 3,
+      "bytes": 1305196,
+      "sha256": "267b9a20a0becb2278964a2e43dd26707965cc4e8c61bcfaabf9470a8357bf12",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (26).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/siyah/04.png",
+      "color": "Siyah",
+      "order": 4,
+      "bytes": 1366979,
+      "sha256": "6f11d139ad95175b5f7e198af8b948c4801668a78cf6ef898600273f2815261c",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (26).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/siyah/05.png",
+      "color": "Siyah",
+      "order": 5,
+      "bytes": 1471930,
+      "sha256": "87880d551e984dac2dd0477f043a7a3a475ebcf8f3278c89b7431cb8de812b2a",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (26).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gok-mavisi/01.png",
+      "color": "Gök Mavisi",
+      "order": 1,
+      "bytes": 1574840,
+      "sha256": "ea36a1bbdb5871a400df543fdbd61f529375db1b33910379ca0548e3f567073d",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (27).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gok-mavisi/02.png",
+      "color": "Gök Mavisi",
+      "order": 2,
+      "bytes": 1537233,
+      "sha256": "6f25c3df5af8a85414e4ca06f50ef66ca5e0012c51758c5eba2b46c5495a1724",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (27).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gok-mavisi/03.png",
+      "color": "Gök Mavisi",
+      "order": 3,
+      "bytes": 1368819,
+      "sha256": "ed4b7b19a6bcd38fba517394f4753a3ac33e1f29b003a2560021c91e264d8e47",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (27).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gok-mavisi/04.png",
+      "color": "Gök Mavisi",
+      "order": 4,
+      "bytes": 1432723,
+      "sha256": "496170a55ae9bcd54100938e8054c3b0bf5991fdad3e97be864a1c75eceb485e",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (27).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gok-mavisi/05.png",
+      "color": "Gök Mavisi",
+      "order": 5,
+      "bytes": 1452811,
+      "sha256": "9e8548b8b143132ceec1b20ee92206dc99481866efdc7615f6c093cecfc2fbfb",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (27).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gri/01.png",
+      "color": "Gri",
+      "order": 1,
+      "bytes": 1615938,
+      "sha256": "72d8eae47f9390fd92b6d89123b44124700956946be3d290129360c09c350964",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (28).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gri/02.png",
+      "color": "Gri",
+      "order": 2,
+      "bytes": 1555427,
+      "sha256": "2b656bd07f318bf8b6268c3952a05b10fcccae305c24474438cfad8876e92d6e",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (28).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gri/03.png",
+      "color": "Gri",
+      "order": 3,
+      "bytes": 1396949,
+      "sha256": "412a541623ba534ec9abb1e969b0224b4841654e578e84f2f46db643975d1743",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (28).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gri/04.png",
+      "color": "Gri",
+      "order": 4,
+      "bytes": 1460223,
+      "sha256": "91365754a314535cee6c757f6a0778f618cdeadc4575a6cc93ce8570ebfc9db1",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (28).zip"
+    },
+    {
+      "path": "suzgec-variants-20261022/gri/05.png",
+      "color": "Gri",
+      "order": 5,
+      "bytes": 1474561,
+      "sha256": "c347000c12dde108174349eaac5c240399b2c33cc12ec40f0949ac160522f213",
+      "source_zip": "C:\\Users\\Salih\\Downloads\\stitch_remix_of_trendyol_r_n_g_rsel_seti (28).zip"
+    }
+  ]
+}
